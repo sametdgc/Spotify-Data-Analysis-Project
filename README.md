@@ -27,7 +27,7 @@ There is a significant difference in music preferences, as measured by audio fea
 
 The dataset was obtained from Spotify and cleaned using Pandas DataFrame. The cleaning process included handling missing values, transforming data types, and preparing the data for further analysis.
 
-## Feature Engineering
+## Feature Extraction
 
 Spotify API was used to extract additional features related to music preferences. This enhanced the dataset with more detailed information for a comprehensive analysis.
 
