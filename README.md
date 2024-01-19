@@ -33,7 +33,7 @@ Spotify API was used to extract additional features related to music preferences
 
 ## Visualizations
 
-Jupyter notebooks in the `notebooks/` directory contain visualizations illustrating the seasonal variations in music preferences. These visualizations include plots showcasing the dominant genres, top genres in each season, and more.
+Data Visualization using Seaborn, Matplotlib
 
 ## Usage
 
