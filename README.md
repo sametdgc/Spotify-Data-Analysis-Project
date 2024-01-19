@@ -17,7 +17,7 @@ There is a significant difference in music preferences, as measured by audio fea
 
 - `data/`: Contains the dataset used for analysis (`StreamingHistory0.json`).
 - `notebooks/`: Jupyter notebooks with the analysis and visualization code.
-  - `1_seasonal.py.ipynb`: Cleaning and preprocessing of the Spotify data.
+  - `1_seasonal.py`: Cleaning and preprocessing of the Spotify data.
   - `2_seasonal.py`: Utilizing Spotify API for additional feature extraction.
   - `3_heatmap.py`: Visualizing seasonal variations in music preferences.
 - `spotify_final2.csv`: Original dataset obtained from Spotify.
